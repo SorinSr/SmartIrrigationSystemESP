@@ -23,3 +23,9 @@ Other components used: battery holder, to power the pump, jump wires and breadbo
 
 
 ![system](https://user-images.githubusercontent.com/47916325/151583411-e2bace4a-4534-4933-b224-63ed6a988c26.jpeg)
+
+The data read from the sensors is displayed in Blink dashboards and cand be accessed trough web interface or mobile app.
+
+
+![blynk_web](https://user-images.githubusercontent.com/47916325/151585140-60012a9f-d8bc-4bc1-b0a1-222fc099be1e.JPG)
+![blynk_mobile](https://user-images.githubusercontent.com/47916325/151585224-eb4526a2-ce83-4be2-b261-1ac6cbc7a077.jpg)
