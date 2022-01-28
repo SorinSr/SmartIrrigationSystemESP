@@ -19,3 +19,7 @@ Water level sensor: another sensor which stays in water. This sensor has an anal
 Water pump: this pump is very useful because it can function under water without problems and it has an imput voltage between 3 and 6V.
 
 Other components used: battery holder, to power the pump, jump wires and breadboard to make all the connections.
+
+
+
+![system](https://user-images.githubusercontent.com/47916325/151583411-e2bace4a-4534-4933-b224-63ed6a988c26.jpeg)
